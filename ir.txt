@@ -1,0 +1,3 @@
+https://github.com/celso-henrique/naruto-quotes-client
+ 
+https://github.com/celso-henrique/naruto-quotes-server
